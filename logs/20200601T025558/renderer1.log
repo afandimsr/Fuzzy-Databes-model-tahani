@@ -1,0 +1,109 @@
+[2020-06-01 03:15:44.399] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-01 03:15:54.548] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-01 03:24:01.907] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-01 03:24:34.319] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-01 03:24:58.702] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-01 12:09:35.873] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-01 12:10:54.500] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-01 12:10:59.185] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-02 08:45:14.106] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-06-02 15:38:27.364] [renderer1] [error] connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock: Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 15:38:27.366] [renderer1] [error] connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock: Unknown (UserDataSyncError) undefined: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at Function.toUserDataSyncError (file:///snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2693:742)
+    at file:///snap/code/33/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5485:605
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-06-02 15:38:27.366] [renderer1] [error] connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock: Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 15:38:29.165] [renderer1] [error] connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock: Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 15:38:29.584] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 15:43:29.586] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 15:48:29.586] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 15:53:30.177] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 15:58:30.178] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:03:30.178] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:08:30.179] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:13:30.179] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:18:30.180] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:23:30.180] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:28:30.181] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:33:30.181] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:38:30.182] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 16:43:30.183] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 18:04:50.217] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 19:46:36.630] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 19:51:36.631] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)
+[2020-06-02 19:56:36.631] [renderer1] [error] Error: connect ENOENT /run/user/0/snap.code/vscode-a6b7c9c7-1.45.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1056:14)

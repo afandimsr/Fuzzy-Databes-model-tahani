@@ -1,0 +1,22 @@
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Started and initialize received
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Setup a stylesheet lookup map
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document opened: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/config/database.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document opened: file:///opt/lampp/htdocs/fuzzydtbs/application/controllers/Crud.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/controllers/Crud.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document opened: file:///opt/lampp/htdocs/fuzzydtbs/application/controllers/Beranda.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/controllers/Beranda.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document opened: file:///opt/lampp/htdocs/fuzzydtbs/application/views/utama.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/views/utama.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document opened: file:///opt/lampp/htdocs/fuzzydtbs/application/controllers/Beranda.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/controllers/Beranda.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document opened: file:///opt/lampp/htdocs/fuzzydtbs/application/models/DataMotor.php
+[Server(13647) file:///opt/lampp/htdocs/fuzzydtbs] Document changed: file:///opt/lampp/htdocs/fuzzydtbs/application/models/DataMotor.php

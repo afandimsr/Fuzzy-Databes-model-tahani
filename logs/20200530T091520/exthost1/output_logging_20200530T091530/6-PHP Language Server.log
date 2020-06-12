@@ -1,0 +1,18 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 9:15:32 AM] 6 files total
+[Info  - 9:15:32 AM] Indexing project for definitions and static references
+Parsing file:///var/www/html/fuzzy_tahani/tampilData.php
+Parsing file:///var/www/html/fuzzy_tahani/save.php
+Parsing file:///var/www/html/fuzzy_tahani/MiuGaji.php
+Parsing file:///var/www/html/fuzzy_tahani/MiuMasaKerja.php
+Parsing file:///var/www/html/fuzzy_tahani/koneksi.php
+[Info  - 9:15:32 AM] Indexing project for dynamic references
+Parsing file:///var/www/html/fuzzy_tahani/tampilData.php
+Parsing file:///var/www/html/fuzzy_tahani/save.php
+Parsing file:///var/www/html/fuzzy_tahani/MiuGaji.php
+Parsing file:///var/www/html/fuzzy_tahani/MiuMasaKerja.php
+Parsing file:///var/www/html/fuzzy_tahani/koneksi.php
+[Info  - 9:15:32 AM] 0 Packages
+[Info  - 9:15:32 AM] All 6 PHP files parsed in 0 seconds. 170 MiB allocated.

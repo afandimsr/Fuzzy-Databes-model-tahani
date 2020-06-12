@@ -1,0 +1,21 @@
+[2020-05-28 23:42:47.242] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-05-28 23:54:19.824] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-05-28 23:54:21.048] [renderer1] [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)

@@ -1,0 +1,10 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 12:10:08 AM] 1 files total
+[Info  - 12:10:08 AM] Indexing project for definitions and static references
+Parsing file:///var/www/html/fuzzy_tahani/save.php
+[Info  - 12:10:08 AM] Indexing project for dynamic references
+Parsing file:///var/www/html/fuzzy_tahani/save.php
+[Info  - 12:10:08 AM] 0 Packages
+[Info  - 12:10:08 AM] All 1 PHP files parsed in 0 seconds. 170 MiB allocated.

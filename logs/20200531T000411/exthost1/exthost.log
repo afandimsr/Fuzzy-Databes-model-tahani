@@ -1,0 +1,77 @@
+[2020-05-31 00:04:18.432] [exthost] [info] extension host started
+[2020-05-31 00:04:18.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2020-05-31 00:04:18.621] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2020-05-31 00:04:18.658] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":false,"extensionId":{"value":"felixfbecker.php-intellisense","_lower":"felixfbecker.php-intellisense"},"activationEvent":"onLanguage:php"}
+[2020-05-31 00:04:18.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/out/extension
+[2020-05-31 00:04:19.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-31 00:04:19.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-31 00:04:19.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-31 00:04:19.091] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-31 00:04:19.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-31 00:04:19.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-31 00:04:19.348] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-31 00:04:19.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-31 00:04:19.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-31 00:04:19.394] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-31 00:04:19.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-31 00:04:19.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-31 00:04:19.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-31 00:04:19.406] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-31 00:04:19.425] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2020-05-31 00:04:19.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/afandi/.vscode/extensions/formulahendry.auto-rename-tag-0.1.3/packages/extension/dist/extensionMain.js
+[2020-05-31 00:04:19.459] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2020-05-31 00:04:19.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/afandi/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2020-05-31 00:04:19.622] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-05-31 00:04:19.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/afandi/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-05-31 00:04:20.690] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-05-31 00:04:20.690] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/afandi/.vscode/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-05-31 00:04:22.200] [exthost] [warning] DiagnosticCollection with name 'css-peek' does already exist.
+[2020-05-31 00:04:22.217] [exthost] [info] eager extensions activated
+[2020-05-31 00:16:17.626] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2020-05-31 00:16:17.646] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-05-31 00:16:29.859] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2020-05-31 00:16:29.860] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-05-31 00:16:32.574] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2020-05-31 00:16:32.574] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-05-31 00:16:48.531] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2020-05-31 00:16:48.532] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-05-31 00:16:48.794] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2020-05-31 00:16:48.794] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2020-05-31 00:35:38.817] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2020-05-31 00:35:38.818] [exthost] [error] Error: Illegal argument: character must be non-negative
+    at Object.t.illegalArgument (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:784)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:426:473)
+    at new e (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:424:44)
+    at asPosition (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+    at asRange (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+    at asHover (/home/afandi/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)

@@ -1,0 +1,24 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 2:56:07 AM] 9 files total
+[Info  - 2:56:07 AM] Indexing project for definitions and static references
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/index.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/tampilData.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/functions.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/save.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/MiuGaji.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/MiuMasaKerja.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/koneksi.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/coba.php
+[Info  - 2:56:07 AM] Indexing project for dynamic references
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/index.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/tampilData.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/functions.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/save.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/MiuGaji.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/MiuMasaKerja.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/koneksi.php
+Parsing file:///opt/lampp/htdocs/fuzzy_tahani/coba.php
+[Info  - 2:56:07 AM] 0 Packages
+[Info  - 2:56:07 AM] All 9 PHP files parsed in 0 seconds. 170 MiB allocated.
