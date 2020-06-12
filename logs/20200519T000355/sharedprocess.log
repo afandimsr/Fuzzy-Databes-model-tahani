@@ -1,3 +1,0 @@
-[2020-05-19 00:03:59.704] [sharedprocess] [info] main {"machineId":"4afd074d4286ccbdfc3aee7f42408c5b50730bf1406d7a5a032d68a5bbfb03ae","windowId":2}
-[2020-05-19 00:03:59.831] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/fuzzy_tahani/User/snippets'
-[2020-05-19 00:04:39.744] [sharedprocess] [info] Starting to clean up unused language packs.
