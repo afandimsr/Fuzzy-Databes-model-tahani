@@ -1,0 +1,12 @@
+Cookies
+Backups/*.
+blob_storage/*.
+Cache/*.
+CacheData/*.
+CachedExtensions/*.
+Code Cache/*.
+Dictionaris/*.
+GPUCache/*.
+logs/*.
+SessionStorage/*.
+User/*.
